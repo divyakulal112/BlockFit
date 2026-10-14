@@ -1,4 +1,4 @@
-package com.blockfit.game;
+package com.blockfitogs.game;
 
 import com.getcapacitor.BridgeActivity;
 
